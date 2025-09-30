@@ -11,3 +11,23 @@ Navdeep Singh – Front-End Developer (React), GitHub Manager, Documentation
 Parmjeet Singh – Back-End Developer (Spring Boot), Database Integration, API Development 
 
 Dilpreet Singh – Tester, UI/UX Designer, Project Coordinator 
+
+3. Project Elements
+•	Front-End: React with Bootstrap for responsive design
+•	Back-End: Spring Boot for API services
+•	Database: MySQL to store product details, store prices, and user information
+•	Authentication: Login and Signup functionality for users
+•	Features:
+o	Search and filter groceries by product/store
+o	Show flyers and promotions
+o	Compare prices between different stores
+o	Save favourite items for later viewing
+
+4. Timeline and Milestones
+•	Week 1–2: Setup GitHub repo, finalize tools/frameworks, UI mockups
+•	Week 3–4: Implement Login/Signup, product display page
+•	Week 5–6: Add price comparison logic, connect front-end with database
+•	Week 7: Flyers/promotions feature, favourites functionality
+•	Week 8: Testing and bug fixes
+•	Week 9: Documentation and project presentation prep
+•	Week 10: Final submission & presentation
