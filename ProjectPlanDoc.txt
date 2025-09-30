@@ -11,3 +11,17 @@ Navdeep Singh – Front-End Developer (React), GitHub Manager, Documentation
 Parmjeet Singh – Back-End Developer (Spring Boot), Database Integration, API Development 
 
 Dilpreet Singh – Tester, UI/UX Designer, Project Coordinator 
+
+5. Risks
+•	Technical Risks: Difficulty integrating real-time flyer data from different stores
+•	Time Risks: Falling behind due to workload in other classes
+•	Team Risks: Miscommunication or uneven task distribution
+•	Mitigation Strategies: Regular meetings, clear GitHub issue tracking, use of mock data if APIs are unavailable
+________________________________________
+6. Communication and Work Plan
+•	Weekly online meetings via Zoom/Teams
+•	Daily communication through WhatsApp/Discord
+•	GitHub for version control and task tracking
+•	Google Docs/Word for collaborative documentation
+•	Each member responsible for updating task status after completion
+
